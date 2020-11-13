@@ -1,10 +1,10 @@
 {
-  "name": "Sort Me",
-  "description": "Sort artboards and layers by name",
+  "name": "Sort Me by Y coordinates",
+  "description": "Sort artboards and layers by Y coordinates",
   "author": "Roman Shamin / Nikki Moreaux",
   "homepage": "https://github.com/nikkimoreaux/sort-me-sketch",
   "version": 1.4,
-  "identifier": "com.github.romashamin.sort-me-sketch",
+  "identifier": "com.github.nikkimoreaux.sort-me-sketch",
   "appcast": "https://raw.githubusercontent.com/nikkimoreaux/sort-me-sketch/master/appcast.xml",
   "compatibleVersion": 3,
   "bundleVersion": 1,
