@@ -3,7 +3,7 @@
   <channel>
     <title>Sort Me</title>
     <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
-    <description>Sort artboards and layers by name</description>
+    <description>Sort artboards and layers by Y coordinates</description>
     <language>en</language>
       <item>
         <title>Version 1.4</title>
@@ -14,7 +14,7 @@
             </ul>
           ]]>
         </description>
-        <enclosure url="https://github.com/romashamin/sort-me-sketch/archive/master.zip" sparkle:version="1.4" />
+        <enclosure url="https://github.com/nikkimoreaux/sort-me-sketch/archive/master.zip" sparkle:version="1.4" />
       </item>
   </channel>
 </rss>
