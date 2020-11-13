@@ -1,4 +1,4 @@
-# Sort Me
+# Sort Me ___by Y coordinates___
 
 <img width="256" height="256" src="images/sort-me-icon@2x.png" title="Sort Me Icon">
 
